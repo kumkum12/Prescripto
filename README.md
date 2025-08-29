@@ -5,7 +5,7 @@
 
 <div>
   <p>
-    This full-stack appointment booking system is designed for doctors 🩺 and hospitals 🏥. It includes a robust three-level authentication system:
+    This full-stack appointment booking system is designed for doctors 🩺 and hospitals 🏥. It includes a robust three-level authentication system:-
   </p>
 
   <ol>
